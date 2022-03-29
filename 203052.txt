@@ -1,0 +1,5 @@
+milk
+bread
+rice
+meat
+eggs
