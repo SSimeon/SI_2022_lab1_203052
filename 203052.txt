@@ -1,5 +1,6 @@
 milk x1
 bread x2
 rice x1
-meat x3
+meat x1
 eggs x8
+fruit x10
